@@ -25,16 +25,6 @@ Researcher with a **PhD in Computer Science**, specializing in **Natural Languag
 | **`RAG-Product-Review-Analyzer`** | **GenAI & Information Retrieval** | Implemented a Retrieval-Augmented Generation (RAG) system to accurately summarize and extract insights from unstructured product reviews. |
 
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Archana's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=5&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Get In Touch
 * **LinkedIn:** www.linkedin.com/in/archanagodavarthy
 * **Email:** agodavarthy@gmail.com

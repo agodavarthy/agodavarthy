@@ -5,25 +5,25 @@
 ---
 
 ### 💡 About Me
-Researcher with a **PhD in Computer Science**, specializing in **Natural Language Processing (NLP)**, **Machine Learning**, and **Information Retrieval**. [cite_start]I design, develop, and implement innovative, data-driven systems, validated by published research in top-tier venues like SIGIR and CIKM[cite: 462, 463]. [cite_start]Currently focused on leveraging **Generative AI (GenAI)** tools, including **RAG** and **ReAct** frameworks, to solve critical challenges in the health, education, and climate sectors[cite: 464, 465].
+Researcher with a **PhD in Computer Science**, specializing in **Natural Language Processing (NLP)**, **Machine Learning**, and **Information Retrieval**. I design, develop, and implement innovative, data-driven systems, validated by published research in top-tier venues like SIGIR and CIKM.
 
 ### 🛠️ Key Technical Stack
 | Category | Tools / Keywords |
 | :--- | :--- |
-| **Languages** | `Python` | `SQL` |
-| **ML/Deep Learning** | [cite_start]`PyTorch` [cite: 466] | `TensorFlow` (Recommended to add) | [cite_start]`Scikit-learn` [cite: 466] |
-| **GenAI/NLP** | [cite_start]`LLMs` [cite: 466] | [cite_start]`BERT` [cite: 466] | [cite_start]`RAG` [cite: 464] | [cite_start]`ChromaDB` [cite: 466] |
-| **MLOps/Deployment** | `Docker` (Recommended for deployment proof) | [cite_start]`Streamlit` [cite: 475] | `FastAPI/Flask` (Recommended for APIs) |
-| **Cloud** | `AWS` (Recommended to add) | `Azure/GCP` (Recommended to add) |
+| **Languages** | `Python` |
+| **ML/Deep Learning** | `PyTorch`  | `Scikit-learn`  |
+| **GenAI/NLP** | `LLMs` | `BERT`  | `RAG`  | `ChromaDB`  |
+| **MLOps/Deployment** | `Streamlit`  | `Gradio` |
 
 ---
 
 ### 🔥 Featured Projects
 | Repository | Focus | Value Proposition |
 | :--- | :--- | :--- |
-| **`Fraud-Detection-Ensemble-LIME`** | **End-to-End ML System & Interpretability** | [cite_start]Deployed system using supervised (XGBoost) and unsupervised (Isolation Forest) methods for anomaly detection[cite: 474]. [cite_start]Includes LIME for model interpretability[cite: 475]. |
-| **`RAG-Product-Review-Analyzer`** | **GenAI & Information Retrieval** | [cite_start]Implemented a Retrieval-Augmented Generation (RAG) system to accurately summarize and extract insights from unstructured product reviews[cite: 473]. |
-| **`Cross-Language-Microblog-Retrieval`** | **Published Research (NLP)** | [cite_start]Modeled latent semantics for cross-language tweet retrieval, demonstrating advanced NLP and modeling capability[cite: 485]. |
+| **`Personalized Memory Transfer`** | **Published Research (NLP)** | Model that learns user preferences through online conversations using a key-value memory structure to extract user feedback directly from the conversations. |
+| **`Fraud-Detection-Ensemble-LIME`** | **End-to-End ML System & Interpretability** | Deployed system using supervised (XGBoost) and unsupervised (Isolation Forest) methods for anomaly detection. Includes LIME for model interpretability. |
+| **`RAG-Product-Review-Analyzer`** | **GenAI & Information Retrieval** | Implemented a Retrieval-Augmented Generation (RAG) system to accurately summarize and extract insights from unstructured product reviews. |
+
 
 ---
 
@@ -37,5 +37,5 @@ Researcher with a **PhD in Computer Science**, specializing in **Natural Languag
 
 ### 🤝 Get In Touch
 * **LinkedIn:** [Your LinkedIn Profile Link]
-* [cite_start]**Email:** agodavarthy@gmail.com [cite: 460]
+* **Email:** agodavarthy@gmail.com 
 * **Portfolio/Blog:** [Link to your Medium/Personal Site]

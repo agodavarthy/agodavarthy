@@ -1,6 +1,6 @@
 # Hi, I'm Archana Godavarthy 👋 
 
-<img src="ArchanaHeadShot.jpg" alt="Archana Godavarthy - ML/GenAI Researcher" />
+<img src="https://github.com/agodavarthy/agodavarthy/ArchanaHeadShot.jpg" alt="Archana Godavarthy - ML/GenAI Researcher" />
 
 ---
 

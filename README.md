@@ -5,7 +5,7 @@
 ---
 
 ### 💡 About Me
-[cite_start]Researcher with a **PhD in Computer Science**, specializing in **Natural Language Processing (NLP)**, **Machine Learning**, and **Information Retrieval**[cite: 461]. [cite_start]I design, develop, and implement innovative, data-driven systems, validated by published research in top-tier venues like SIGIR and CIKM[cite: 462, 463]. [cite_start]Currently focused on leveraging **Generative AI (GenAI)** tools, including **RAG** and **ReAct** frameworks, to solve critical challenges in the health, education, and climate sectors[cite: 464, 465].
+Researcher with a **PhD in Computer Science**, specializing in **Natural Language Processing (NLP)**, **Machine Learning**, and **Information Retrieval**. [cite_start]I design, develop, and implement innovative, data-driven systems, validated by published research in top-tier venues like SIGIR and CIKM[cite: 462, 463]. [cite_start]Currently focused on leveraging **Generative AI (GenAI)** tools, including **RAG** and **ReAct** frameworks, to solve critical challenges in the health, education, and climate sectors[cite: 464, 465].
 
 ### 🛠️ Key Technical Stack
 | Category | Tools / Keywords |

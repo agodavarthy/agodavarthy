@@ -1,11 +1,11 @@
 # Hi, I'm Archana Godavarthy 👋 
 
-<img src="ArchanaHS_preview.jpg" alt="Archana Godavarthy - ML/GenAI Researcher" width="200px"/>
+<img src="ArchanaHS_preview.jpg" alt="Archana Godavarthy - ML/GenAI Researcher" width="150px"/>
 
 ---
 
 ### 💡 About Me
-Researcher with a **PhD in Computer Science**, specializing in **Natural Language Processing (NLP)**, **Machine Learning**, and **Information Retrieval**. I design, develop, and implement innovative, data-driven systems, validated by published research in top-tier venues like SIGIR and CIKM.
+Researcher with a **PhD in Computer Science**, specializing in **Natural Language Processing (NLP)**, **Machine Learning**, and **Information Retrieval**. I design, develop, and implement innovative, data-driven systems, validated by published research in top-tier venues like IRJ, SIGIR, ICTIR and CIKM, .
 
 ### 🛠️ Key Technical Stack
 | Category | Tools / Keywords |
@@ -36,6 +36,5 @@ Researcher with a **PhD in Computer Science**, specializing in **Natural Languag
 ---
 
 ### 🤝 Get In Touch
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** agodavarthy@gmail.com 
-* **Portfolio/Blog:** [Link to your Medium/Personal Site]
+* **LinkedIn:** www.linkedin.com/in/archanagodavarthy
+* **Email:** agodavarthy@gmail.com

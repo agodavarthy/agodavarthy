@@ -1,6 +1,6 @@
 # Hi, I'm Archana Godavarthy 👋 
 
-<img src="[[LINK_TO_YOUR_PROFESSIONAL_BANNER_IMAGE](https://photos.google.com/search/ChJBcmNoYW5hIEdvZGF2YXJ0aHkaKQonQUYxUWlwTnE5X3YtVlh2QUppcFBSOEJYekthU0hqRFQ5eDNQTHVRIjESLwotCisKKRInQUYxUWlwTnE5X3YtVlh2QUppcFBSOEJYekthU0hqRFQ5eDNQTHVRKNnm6sWpMw%3D%3D/photo/AF1QipOo32vhRs3bzxD9p0TIG8M5KLg9PnxuHT6Cl9yI)]" alt="Archana Godavarthy - ML/GenAI Researcher" />
+<img src="[[ArchanaHeadShot]]" alt="Archana Godavarthy - ML/GenAI Researcher" />
 
 ---
 
